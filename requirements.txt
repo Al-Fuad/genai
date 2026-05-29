@@ -6,3 +6,4 @@ langchain-anthropic
 streamlit
 langchain_ollama
 langchain-groq
+langchain-community
