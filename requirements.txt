@@ -8,3 +8,8 @@ langchain_ollama
 langchain-groq
 langchain-community
 langgraph
+pypdf
+langchain-unstructured
+unstructured
+python-magic
+unstructured[pdf]
