@@ -13,3 +13,4 @@ langchain-unstructured
 unstructured
 python-magic
 unstructured[pdf]
+langchain-text-splitters
