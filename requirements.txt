@@ -14,3 +14,4 @@ unstructured
 python-magic
 unstructured[pdf]
 langchain-text-splitters
+langchain-chroma
